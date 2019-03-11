@@ -1,6 +1,6 @@
 {
   "name": "homebridge-tuya-smartlamp-bare",
-  "version": "0.3.20",
+  "version": "0.3.21",
   "description": "A no-frills Homebridge plugin for Tuya-based smart lamps of all types.",
   "main": "index.js",
   "scripts": {
