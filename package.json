@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-tuya-smartlamp",
-  "version": "0.3.19",
-  "description": "Homebridge plugin for Tuya/Lohas Led Smart Lamp",
+  "name": "homebridge-tuya-smartlamp-bare",
+  "version": "0.3.20",
+  "description": "A no-frills Homebridge plugin for Tuya-based smart lamps of all types.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -27,7 +27,7 @@
     "socket",
     "plug"
   ],
-  "author": "SLaweck <slaweck7@gmail.com>",
+  "author": "evilgoldfish <epdev@icloud.com>",
   "license": "MIT",
   "dependencies": {
     "async": "^2.6.1",
@@ -39,12 +39,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SLaweck/homebridge-tuya-smartlamp.git"
+    "url": "git+https://github.com/evilgoldfish/homebridge-tuya-smartlamp-bare.git"
   },
   "bugs": {
-    "url": "https://github.com/SLaweck/homebridge-tuya-smartlamp/issues"
+    "url": "https://github.com/evilgoldfish/homebridge-tuya-smartlamp-bare/issues"
   },
-  "homepage": "https://github.com/SLaweck/homebridge-tuya-smartlamp#readme",
+  "homepage": "https://github.com/evilgoldfish/homebridge-tuya-smartlamp-bare#readme",
   "devDependencies": {
     "homebridge": "^0.4.45"
   }
