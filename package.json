@@ -46,6 +46,6 @@
   },
   "homepage": "https://github.com/evilgoldfish/homebridge-tuya-smartlamp-bare#readme",
   "devDependencies": {
-    "homebridge": "^0.4.45"
+    "homebridge": "^0.4.50"
   }
 }
